@@ -1,2 +1,2 @@
 # Parseltongue-App
-Duolingo but Parseltongue (Snake-language). Made with ChatGPT.
+Duolingo but Parseltongue (snake-language). Made with ChatGPT.
