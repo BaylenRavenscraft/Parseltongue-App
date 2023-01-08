@@ -1,0 +1,49 @@
+# Next, we'll define a MatchingGame class to represent the matching game. The game will have a list of words to match, and a method to check whether the user has matched all of the words correctly: 
+
+class MatchingGame:
+    def __init__(self, words):
+        self.words = words
+    
+    def check_completion(self):
+        # Check if all words have been matched
+        for word in self.words:
+            if not word.matched:
+                return False
+        return True
+    
+    def handle_input(self, input_string):
+        # Check if the input string matches the translation of any word
+        for word in self.words:
+            if word.match(input_string):
+                word.matched = True
+                return True
+        return False
+
+# Finally, we'll define a main function to run the matching game. The game will prompt the user to enter a translation, and will keep track of how many attempts the user has made:
+
+def run_game():
+    # Create some words for the game
+    words = [Word('hello', 'hola'), Word('goodbye', 'adiós')]
+    
+    # Create the matching game
+    game = MatchingGame(words)
+    
+    # Main game loop
+    attempts = 0
+    while not game.check_completion():
+        # Get input from the user
+        input_string = input('Enter a translation: ')
+        
+        # Handle the input
+        if game.handle_input(input_string):
+            print('Correct!')
+        else:
+            print('Incorrect')
+            attempts += 1
+    
+    # Game over
+    print(f'You completed the game in {attempts} attempts.')
+
+run_game()
+ 
+#This is just a basic example, but it should give you an idea of how you can create a language-learning app and a matching game minigame using basic Python functions and data structures. You can modify the MatchingGame class to handle multiple attempts per word, or to shuffle the words before each game to make it more challenging.
