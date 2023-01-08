@@ -1,0 +1,11 @@
+# Now, let's define a Word class to represent a vocabulary word in the matching game minigame. Each word will have a value (the word in the source language) and a translation: 
+
+class Word:
+    def __init__(self, value, translation):
+        self.value = value
+        self.translation = translation
+        self.matched = False
+    
+    def match(self, translation):
+        # Check if the given translation matches the word's translation
+        return self.translation == translation
