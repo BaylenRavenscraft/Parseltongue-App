@@ -1,0 +1,10 @@
+# Next, we'll define a Mode class to represent a mode in the app, such as a lesson mode or a practice mode. Each mode will have a list of lessons, and a method to move to the next lesson: 
+
+class Mode:
+    def __init__(self, lessons):
+        self.lessons = lessons
+        self.current_lesson_index = 0
+    
+    def next_lesson(self):
+        # Move to the next lesson
+        self.current_lesson_index += 1
