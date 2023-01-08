@@ -1,0 +1,36 @@
+# Finally, we'll define a LanguageApp class to represent the overall language-learning app. The app will have a list of modes, and a method to switch between them:
+
+class LanguageApp:
+    def __init__(self, modes):
+        self.modes = modes
+        self.current_mode_index = 0
+    
+    def switch_mode(self, mode_index):
+        # Switch to the specified mode
+        self.current_mode_index = mode_index
+
+
+
+# Here's how you might use these classes to create a language-learning app:
+
+# Define some vocabulary and sentences for the lessons
+vocab_lesson_1 = ['hello', 'goodbye']
+sentences_lesson_1 = ['Hello, how are you?', 'Goodbye, see you later']
+vocab_lesson_2 = ['apple', 'banana']
+sentences_lesson_2 = ['I like apples', 'I like bananas']
+
+# Create the lessons
+lesson_1 = Lesson(vocab_lesson_1, sentences_lesson_1)
+lesson_2 = Lesson(vocab_lesson_2, sentences_lesson_2)
+
+# Create a mode with the lessons
+lesson_mode = Mode([lesson_1, lesson_2])
+
+# Create a practice mode with no lessons (the user can choose which vocabulary and sentences to practice)
+practice_mode = Mode([])
+
+# Create the language-learning app with the two modes
+app = LanguageApp([lesson_mode, practice_mode])
+
+# Switch to the practice mode
+app.switch_mode(1)
