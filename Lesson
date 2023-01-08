@@ -1,0 +1,11 @@
+#First, we'll define a Lesson class to represent a lesson in the app. Each lesson will have a list of vocabulary words to learn, and a list of sentences to translate. We'll also define a method to check whether the user has completed the lesson: 
+
+class Lesson:
+    def __init__(self, vocabulary, sentences):
+        self.vocabulary = vocabulary
+        self.sentences = sentences
+        self.completed = False
+    
+    def check_completion(self):
+        # Check if the user has correctly completed all vocabulary and translation exercises
+        pass
