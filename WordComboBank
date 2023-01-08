@@ -16,7 +16,26 @@
 "Seh" - How are you?
 "Sil" - I am fine, thank you.
 "Sssah" - Friend
-
+"S" - I
+"M" - Me
+"N" - Mine
+"Y" - You
+"Yr" - Yours
+"H" - He
+"Hm" - Him
+"Hs" - His
+"Sh" - She
+"Hr" - Her
+"Hrs" - Hers
+"T" - It
+"Thm" - Them
+"Thy" - They
+"Thr" - Their
+"W" - We
+"Us" - Us
+"A" - Are
+"I" - Is
+"W" - Will be
 
 'Environmental'
 "Sssil" - Water
@@ -221,3 +240,148 @@
 "Ssssrysssh" - Hippogriff
 "Sssslysssh" - Inferius
 "Hissskkysh" - Thestral
+
+
+'Gardening'
+"Siss" - Plant
+"Sisss" - Grow
+"Sissst" - Harvest
+"Sissss" - Water
+"Sisssss" - Sun
+"Sissssst" - Soil
+"Sissssss" - Fertilize
+"Sisssssss" - Prune
+"Sissssssst" - Weed
+"Sissssssss" - Seed
+"Sissf" - Flower
+"Sissff" - Vegetable
+"Sisss" - Tree
+"Sisssr" - Herb
+"Sisssst" - Lawn
+"Sissssr" - Garden bed
+"Sissssf" - Compost
+"Sissssstt" - Greenhouse
+"Sisssssr" - Landscape
+"Sisssssf" - Insect
+"Sissss" - Pest
+"Sisssstt" - Disease
+"Sisssssr" - Prevention
+"Sisssssf" - Treatment
+"Sisssssttt" - Garden tools
+"Sissssssr" - Gardening gloves
+"Sissssssf" - Watering can
+"Sisssssst" - Shovel
+"Sissssss" - Rake
+"Sissssstt" - Hoe
+"Sissssssr" - Pruning shears
+"Sissssssf" - Garden fork
+"Sisssssstt" - Garden hose
+"Sisssssssr" - Wheelbarrow
+"Sisssssssf" - Garden cart
+
+
+'Romantic Courtship / Dating'
+"Sissah" - Love
+"Sissil" - Crush
+"Sisseh" - Flirt
+"Sissahh" - Kiss
+"Sissilh" - Date
+"Sissehh" - Relationship
+"Sissahss" - Marriage
+"Sissilss" - Engagement
+"Sissehss" - Proposal
+"Sissahsss" - Wedding
+"Sissilsss" - Honeymoon
+"Sissehsss" - Commitment
+"Sissahssst" - Fidelity
+"Sissilssst" - Loyalty
+"Sissehssst" - Trust
+"Sissahssss" - Respect
+"Sissilssss" - Adoration
+"Sissehssss" - Devotion
+"Sissahsssst" - Passion
+"Sissilsssst" - Affection
+"Sissehsssst" - Tenderness
+"Sissahsssss" - Intimacy
+"Sissilsssss" - Closeness
+"Sissehsssss" - Bond
+"Sissahssssst" - Love letter
+"Sissilssssst" - Poem
+"Sissehssssst" - Song
+"Sissahssssss" - Gift
+"Sissilssssss" - Token
+"Sissehssssss" - Gesture
+
+
+'Common Verbs'
+"Sishssasssif" - Do
+"Sssaaaassahfissss" - Be
+"Shhikassssifaassss" - Have
+"Sessisafasi" - Go
+"Sarisissha" - Come
+"Sssssifash" - See
+"Sssashfashh" - Know
+"Sssssshafashh" - Think
+"Ssssisafashh" - Take
+"Ssssaafashh" - Give
+"Sssfashfashh" - Find
+"Ssssisfafashhh" - Tell
+"Ssssashafashhh" - Ask
+"Ssssfashafashhh" - Work
+"Ssssisafafashhh" - Seem
+"Ssssaafafashhh" - Feel
+"Sssfashfafashhh" - Try
+"Ssssisfafafashhhh" - Leave
+"Ssssashafafashhhh" - Call
+"Ssssfashafafashhhh" - Mean
+"Ssssisafafafashhhh" - Keep
+"Ssssaafafafashhhh" - Start
+"Sssfashfafafashhhh" - Help
+"Ssssisfafafafashhhhh" - Turn
+"Ssssashafafafashhhhh" - Play
+"Ssssfashafafafashhhhh" - Run
+"Ssssisafafafafashhhhh" - Move
+"Ssssaafafafafashhhhh" - Live
+"Sssfashfafafafashhhhh" - Pay
+"Ssssisfafafafafashhhhhh" - Sit
+"Ssssashafafafafashhhhhh" - Stand
+"Ssssfashafafafafashhhhhh" - Learn
+"Ssssisafafafafafashhhhhh" - Lose
+"Ssssaafafafafafashhhhhh" - Win
+"Sssfashfafafafafashhhhhh" - Fall
+"Ssssisfafafafafafashhhhhhh" - Send
+"Ssssashafafafafafashhhhhhh" - Build
+"Ssssfashafafafafafashhhhhhh" - Draw
+"Ssssisafafafafafafashhhhhhh" - Read
+"Ssssaafafafafafafafashhhhhhh" - Write
+
+
+'Cooking'
+"Sssin" - Cook
+"Hissin" - Bake
+"Sssiss" - Boil
+"Hississ" - Fry
+"Sssinst" - Grill
+"Hissinst" - Roast
+"Sssinsst" - Steam
+"Hissinsst" - Smoke
+"Sssinsstt" - Braise
+"Hissinsstt" - Saute
+"Sssisss" - Mix
+"Hississs" - Stir
+"Sssissst" - Blend
+"Hississst" - Chop
+"Sssisssst" - Mince
+"Hississsst" - Puree
+"Sssisssss" - Dice
+"Hississsss" - Slice
+"Sssisssstt" - Shred
+"Hississsstt" - Grind
+"Sssissssst" - Knead
+"Hississssst" - Roll
+"Sssisssssst" - Shape
+"Hississsssst" - Mold
+"Sssisssssss" - Garnish
+"Hississsssss" - Season
+"Sssisssssstt" - Flavour
+"Hississsssstt" - Spice
